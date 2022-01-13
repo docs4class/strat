@@ -1,0 +1,45 @@
+--- 
+title: "BADM 352 Strategic Management"
+author: "Turner"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  Course schedule for BADM 352 Strategic Management.
+biblio-style: apalike
+csl: chicago-fullnote-bibliography.csl
+---
+
+# Class Schedule  {-}
+
+::: {.rmdimportant}
+
+This website serves as schedule headquarters for **BADM 352 Strategic Management**. 
+
+:::
+
+## Spring 2022  {-}
+
+
+Date | Topic | 				
+|:-------|:------						
+| 		Monday, January 10, 2022	| 		Fisker vs Tesla	| 
+| 		Wednesday, January 12, 2022	| 		Robin Hood	| 
+| 		Monday, January 17, 2022	| 		MLK Holiday	| 
+| 		Wednesday, January 19, 2022	| 		Quiz: Can you Say	| 
+| 		Monday, January 24, 2022	| 		Quiz: CH 1 & 2	| 
+| 		Wednesday, January 26, 2022	| 		Quiz: CH 3	| 
+| 		Monday, January 31, 2022	| 		Quiz: CH 4	| 
+| 		Wednesday, February 2, 2022	| 		Quiz: Case & Exam Review	| 
+| 		Monday, February 7, 2022	| 		**EXAM 1**	| 
+| 		Wednesday, February 9, 2022	| 		CH 5	| 
+| 		Monday, February 14, 2022	| 		Quiz: CH 6	| 
+| 		Wednesday, February 16, 2022	| 		Quiz: CH 7* or Case	| 
+| 		Monday, February 21, 2022	| 		Quiz: CH 8	| 
+| 		Wednesday, February 23, 2022	| 		Quiz: CH 9	| 
+| 		Monday, February 28, 2022	| 		Case	| 
+| 		Wednesday, March 2, 2022	| 		Case & Review	| 
+| 		Monday, March 7, 2022	| 		**EXAM 2**	| 
