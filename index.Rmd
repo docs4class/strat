@@ -21,36 +21,41 @@ This website serves as schedule headquarters for **BADM 352 Strategic Management
 
 :::
 
-## Spring 2022  {-}
 
-
+## Fall 2022  {-}				
+				
+				
 Date | Topic | 				
 |:-------|:------				
-| 	Monday, January 10, 2022	| 	Fisker vs Tesla	| 
-| 	Wednesday, January 12, 2022	| 	Robin Hood	| 
-| 	Monday, January 17, 2022	| 	MLK Holiday	| 
-| 	Wednesday, January 19, 2022	| 	Quiz: Can you Say	| 
-| 	Wednesday, January 26, 2022	| 	Quiz: CH 1 & 2	| 
-| 	Monday, January 31, 2022	| 	Quiz: CH 3	| 
-| 	Wednesday, February 2, 2022	| 	Quiz: CH 4	| 
-| 	Monday, February 7, 2022	| 	**EXAM 1**	| 
-| 	Wednesday, February 9, 2022	| 	CH 5	| 
-| 	Monday, February 14, 2022	| 	Quiz: CH 6	| 
-| 	Wednesday, February 16, 2022	| 	Quiz: CH 7* or Case	| 
-| 	Monday, February 21, 2022	| 	Case	| 
-| 	Wednesday, February 23, 2022	| 	Aldi & Walmart	| 
-| 	Monday, March 7, 2022	| 		| 
-| 	**Spring Break**	| 		| 
-| 	Monday, March 21, 2022	| 	Groups & Companies	| 
-| 	Wednesday, March 23, 2022	| 	Project Rubric	| 
-| 	Monday, March 28, 2022	| 	Quiz: Ch. 8	| 
-| 	Wednesday, March 30, 2022	| 	Quiz: Ch. 9	| 
-| 	Monday, April 4, 2022	| 	Rough Draft Due	20% | 
-| 	Wednesday, April 6, 2022	| 	Case and Review	| 
-| 	Monday, April 11, 2022	| 	**EXAM 2**	| 
-| 	Wednesday, April 13, 2022	| 	Final Draft Due 80%	| 
-| 	Monday, April 18, 2022	| 	Easter Break	| 
-| 	Wednesday, April 20, 2022	| 	**PRESENTATIONS**	| 
-| 	Monday, April 25, 2022	| 	**PRESENTATIONS**	| 
-| 	Wednesday, April 27, 2022	| 	Last Day of Class	| 
+| 	Wednesday, August 24, 2022	| 	Fisker vs Tesla	| 
+| 	Monday, August 29, 2022	| 	Robin Hood	| 
+| 	Wednesday, August 31, 2022	| 	GM and FORD, Ch 1	| 
+| 	Monday, September 5, 2022	| 	Quiz: Can you Say	| 
+| 	Wednesday, September 7, 2022	| 	Quiz: CH 1 & 2	| 
+| 	Monday, September 12, 2022	| 	Quiz: CH 3	| 
+| 	Wednesday, September 14, 2022	| 	Quiz: CH 4	| 
+| 	Monday, September 19, 2022	| 	Case and Review	| 
+| 	Wednesday, September 21, 2022	| 	**EXAM 1**	| 
+| 	Monday, September 26, 2022	| 	CH 5	| 
+| 	Wednesday, September 28, 2022	| 	Case	| 
+| 	Monday, October 3, 2022	| 	Quiz: CH 6	| 
+| 	Wednesday, October 5, 2022	| 	Aldi & Walmart	| 
+| 	Monday, October 10, 2022	| 	FALL BREAK	| 
+| 	Wednesday, October 12, 2022	| 	Quiz: CH 7	| 
+| 	Monday, October 17, 2022	| 	Groups & Companies	| 
+| 	Wednesday, October 19, 2022	| 	Project Rubric	| 
+| 	Monday, October 24, 2022	| 	Quiz: Ch. 8	| 
+| 	Wednesday, October 26, 2022	| 	Quiz: Ch. 9	| 
+| 	Monday, October 31, 2022	| 	Groups & Companies	| 
+| 	Wednesday, November 2, 2022	| 	Case and Review	| 
+| 	Monday, November 7, 2022	| 	**EXAM 2**	| 
+| 	Wednesday, November 9, 2022	| 	Rough Draft Due 20%	| 
+| 	Monday, November 14, 2022	| 	GROUP MEETINGS	| 
+| 	Wednesday, November 16, 2022	| 	GROUP MEETINGS	| 
+| 	Monday, November 21, 2022	| 	Final Draft Due 80%	| 
+| 	Wednesday, November 23, 2022	| 	THANKSGIVING BREAK	| 
+|	  Monday, November 28, 2022	| 	**PRESENTATIONS**	| 
+| 	Wednesday, November 30, 2022	| 	**PRESENTATIONS**	| 
+|	 Monday, December 5, 2022	| 	LAST DAY OF CLASS	| 
+
 
