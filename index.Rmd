@@ -13,11 +13,28 @@ biblio-style: apalike
 csl: chicago-fullnote-bibliography.csl
 ---
 
-# Class Schedule  {-}
+
+
+
+# Class Grading & Schedule {-}
 
 ::: {.rmdimportant}
 
 This website serves as schedule headquarters for **BADM 352 Strategic Management**. 
+
+:::
+
+## Grading   {-}
+
+::: {.rmdimportant}
+
+Item   | % of Final Grade | 				
+|:-------|:------				
+| 	Quizzes, Cases & Assignments	| 	40%	| 
+| 	Exam 1	| 	20%	| 
+| 	Exam 2	| 20%	| 
+| 	Exam 3/Project	| 20%	| 
+| 	**TOTAL**	| **100%**	| 
 
 :::
 

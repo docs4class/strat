@@ -8,7 +8,8 @@ gm-and-ford-evs
 chapter-1-what-is-strategy
 slos
 key-terms
-chapter-2-strategy-process
+chapter-2-leadership-strategy-process
+fedex
 slos-1
 key-terms-1
 checkout-popeyes
