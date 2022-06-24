@@ -1,6 +1,9 @@
 fisker-vs-tesla
 robin-hood
+click-here-for-robin-hood-case
+robin-hood-presentation-specifics
 can-you-say
+click-here-for-can-you-say
 gm-and-ford-evs
 chapter-1-what-is-strategy
 slos
@@ -13,7 +16,7 @@ chapter-3-external-analysis
 chapter-4-internal-analysis
 chapter-5-competitive-advantage-business-models
 mcdonalds
-chapter-6-differention-cost-leadership
+chapter-6-differentiation-cost-leadership
 chapter-7-innovation
 chapter-8-vi-diversification
 chapter-9-sa-m-a
