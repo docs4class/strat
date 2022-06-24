@@ -49,13 +49,13 @@ Based on the *Wall Street Journal* article from June 22, 2022 entitled:
 ***GM, Ford turn on each other into EV's,  Detroit's greatest rivalry is intensifying in the race to take on Tesla***
 
 1. Summarize the key differences in how Ford and GM are strategically approaching the EV market
-2.  Which company do you believe has the correct or better strategy? 
+2. Which company do you believe has the correct or better strategy? 
 3. What is the market saying about each strategy? Is there currently a winner and/or loser?
 4. Should Tesla be taking note of what these two companies are doing – why or why not? If so, what should Tesla do about it? 
 
-# Chapter 1
+# CHAPTER 1 What Is Strategy?
 
-## CHAPTER 1 What Is Strategy?
+## SLOs
 
 1. Explain the role of strategy in a firm’s quest for competitive advantage. 
 2. Define competitive advantage, sustainable competitive advantage, competitive disadvantage, and competitive parity. 
@@ -81,9 +81,9 @@ Based on the *Wall Street Journal* article from June 22, 2022 entitled:
 
 
 
-# Chapter 2
+# Chapter 2: Strategy Process
 
-## Strategic Leadership: Managing the Strategy Process
+## SLOs
 
 1. Explain the role of strategic leaders and what they do. 
 2. Outline how you can become a strategic leader. 
@@ -139,8 +139,42 @@ Based on the *Wall Street Journal* article from June 22, 2022 entitled:
 ## [Checkout Popeyes](https://www.bizjournals.com/bizwomen/news/profiles-strategies/2015/05/inside-thepopeyes-turnaround-how-cheryl-bachelder.html?page=all)
 
 
-# Chapter 3
+# Chapter 3: External Analysis
 
-# Chapter 4
+# Chapter 4: Internal Analysis
 
-# Chapter 5
+# Chapter 5: Competitive Advantage & Business Models
+
+## mcDonald's
+
+Based on the *Wall Street Journal* article from June 22, 2022 entitled:
+
+***McDonald's Revamps Franchises***
+
+1. What is a business model? 
+2. Summarize McDonald's business model?
+3. What is a competing business model for a company operating in the same industry?
+4. What challenges does McDonald's have and how are the tackling them?
+
+# Chapter 6: Differention & Cost Leadership
+
+# Chapter 7: Innovation
+
+# Chapter 8: VI & Diversification
+
+Based on the *Wall Street Journal* article from June 24, 2022 entitled:
+
+***Walmart Steps Up Cloud Capability***
+
+1. Identify the risks for Walmart to outsource 100% of its cloud computing?
+1. Identify the risks for Walmart to outsource 100% of its cloud computing?
+3. What is Walmart trying to achieve with the hybrid model?
+4. Identify a company in the EV industry trying to use a similar "hybrid" model.  Give specifcs of company and case.
+5. Why the copmany you identified in point 4 going "hybrid"?  Identify the risks and benefits for this EV company.
+
+# Chapter 9: SA, M & A
+
+
+
+
+
