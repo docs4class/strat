@@ -102,10 +102,10 @@ Copyright: 2021
 
 ## Performance Evaluation (Grading) {-}
 
-- Quizzes and Assignments - 20%
+- Quizzes and Assignments - 40%
 - Exam 1 - 20%
 - Exam 2 - 20%
-- Final Exam/Project - 40%
+- Final Exam/Project - 20%
 
 ### Exams {-}
 
