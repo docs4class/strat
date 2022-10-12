@@ -41,7 +41,6 @@ Item   | % of Final Grade |
 
 ## Fall 2022  {-}				
 				
-				
 Date | Topic | 				
 |:-------|:------				
 | 	Wednesday, August 24, 2022	| 	Fisker vs Tesla	| 
@@ -53,18 +52,18 @@ Date | Topic |
 | 	Wednesday, September 14, 2022	| 	Quiz: CH 4	| 
 | 	Monday, September 19, 2022	| 	Case and Review	| 
 | 	Wednesday, September 21, 2022	| 	**EXAM 1**	| 
-| 	Monday, September 26, 2022	| Poncho Case	| 
+| 	Monday, September 26, 2022	|	 Poncho Case	| 
 | 	Wednesday, September 28, 2022	| 	Quiz CH 5 & Case	| 
-| 	Monday, October 3, 2022	| 	Quiz CH 6	| 
-| 	Wednesday, October 5, 2022	| 	Aldi & Walmart	| 
+| 	Monday, October 3, 2022	| 	Ch 5 & 6 & Case	| 
+| 	Wednesday, October 5, 2022	| 	Quiz CH 6	| 
 | 	Monday, October 10, 2022	| 	FALL BREAK	| 
-| 	Wednesday, October 12, 2022	| 	Quiz CH 7	| 
-| 	Monday, October 17, 2022	| 	Groups & Companies	| 
-| 	Wednesday, October 19, 2022	| 	Project Rubric	| 
-| 	Monday, October 24, 2022	| 	Quiz Ch. 8	| 
+| 	Wednesday, October 12, 2022	| 	RyanAir; Groups & Companies	| 
+| 	Monday, October 17, 2022	| 	Aldi & Walmart	| 
+| 	Wednesday, October 19, 2022	| 	Quiz Ch. 8	| 
+| 	Monday, October 24, 2022	| 	Being Case; Pipelines HBR	| 
 | 	Wednesday, October 26, 2022	| 	Quiz Ch. 9	| 
 | 	Monday, October 31, 2022	| 	Groups & Companies	| 
-| 	Wednesday, November 2, 2022	| 	Case and Review	| 
+| 	Wednesday, November 2, 2022	| 	Case and Review; Project Rubric	| 
 | 	Monday, November 7, 2022	| 	**EXAM 2**	| 
 | 	Wednesday, November 9, 2022	| 	Rough Draft Due 20%	| 
 | 	Monday, November 14, 2022	| 	GROUP MEETINGS	| 
@@ -74,6 +73,8 @@ Date | Topic |
 |	  Monday, November 28, 2022	| 	**PRESENTATIONS**	| 
 | 	Wednesday, November 30, 2022	| 	**PRESENTATIONS**	| 
 |	 Monday, December 5, 2022	| 	LAST DAY OF CLASS	| 
+				
+
 
 # Syllabus {-}
 
