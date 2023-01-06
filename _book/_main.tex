@@ -33,14 +33,6 @@
   \KOMAoptions{parskip=half}}
 \makeatother
 \usepackage{xcolor}
-\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
-\hypersetup{
-  pdftitle={BADM 352 Strategic Management},
-  pdfauthor={Turner},
-  hidelinks,
-  pdfcreator={LaTeX via pandoc}}
-\urlstyle{same} % disable monospaced font for URLs
 \usepackage{longtable,booktabs,array}
 \usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
@@ -74,10 +66,18 @@
 \fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={BADM 352 Strategic Management},
+  pdfauthor={Turner},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
 
 \title{BADM 352 Strategic Management}
 \author{Turner}
-\date{2022-11-03}
+\date{2023-01-06}
 
 \begin{document}
 \maketitle
@@ -97,26 +97,32 @@ This website serves as schedule headquarters for \textbf{BADM 352 Strategic Mana
 \addcontentsline{toc}{section}{Grading}
 
 \begin{longtable}[]{@{}ll@{}}
-\toprule
+\toprule()
 Item & \% of Final Grade \\
-\midrule
+\midrule()
 \endhead
 Quizzes, Cases \& Assignments & 40\% \\
 Exam 1 & 20\% \\
 Exam 2 & 20\% \\
 Exam 3/Project & 20\% \\
 \textbf{TOTAL} & \textbf{100\%} \\
-\bottomrule
+\bottomrule()
 \end{longtable}
 
 \hypertarget{fall-2022}{%
 \section*{Fall 2022}\label{fall-2022}}
 \addcontentsline{toc}{section}{Fall 2022}
 
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-Date & Topic \\
-\midrule
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.5333}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.4667}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Date
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Topic
+\end{minipage} \\
+\midrule()
 \endhead
 Wednesday, August 24, 2022 & Fisker vs Tesla \\
 Monday, August 29, 2022 & Robin Hood \\
@@ -145,10 +151,10 @@ Monday, November 14, 2022 & Rough Draft Due 20\% \\
 Wednesday, November 16, 2022 & GROUP MEETINGS \\
 Monday, November 21, 2022 & Final Draft Due 80\% \\
 Wednesday, November 23, 2022 & THANKSGIVING BREAK \\
-Monday, November 28, 2022 & \textbf{PRESENTATIONS} \\
+Monday, November 28, 2022 & Leadership \& Assign Presentation Times \\
 Wednesday, November 30, 2022 & \textbf{PRESENTATIONS} \\
-Monday, December 5, 2022 & LAST DAY OF CLASS \\
-\bottomrule
+Monday, December 5, 2022 & \textbf{PRESENTATIONS} \\
+\bottomrule()
 \end{longtable}
 
 \hypertarget{syllabus}{%
