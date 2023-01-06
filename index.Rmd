@@ -39,42 +39,43 @@ Item   | % of Final Grade |
 :::
 
 
-## Spring 2023  {-}				
-				
-Date | Topic | 				
-|:-------|:------				
-| 	Monday, January 9, 2023	| 	Fisker vs Tesla	| 
-| 	Wednesday, January 11, 2023	| 	Robin Hood	| 
-| 	Monday, January 16, 2023	| 	Martin Luther King, Jr. Holiday	| 
-| 	Wednesday, January 18, 2023	| 	Quiz: Can you Say	| 
-| 	Monday, January 23, 2023	| 	Quiz: CH 1 & 2	| 
-| 	Wednesday, January 25, 2023	| 	Vance Speaker	| 
-| 	Monday, January 30, 2023	| 	Quiz: CH 3	| 
-| 	Wednesday, February 1, 2023	| 	Quiz: CH 4	| 
-| 	Monday, February 6, 2023	| 	Case & review	| 
-| 	Wednesday, February 8, 2023	|	**EXAM 1**	| 
-| 	Monday, February 13, 2023	| 	 Poncho Case	| 
-| 	Wednesday, February 15, 2023	| 	Quiz CH 5 & Case	| 
-| 	Monday, February 20, 2023	| 	Ch 5 & 6 & Case	| 
-| 	Wednesday, February 22, 2023	| 	Quiz CH 6	| 
-| 	Monday, February 27, 2023	| 	FALL BREAK	| 
-| 	Wednesday, March 1, 2023	| 	RyanAir; Groups & Companies	| 
-| 	Monday, March 6, 2023	| 	Aldi & Walmart	| 
-| 	Wednesday, March 8, 2023	| 	Quiz Ch. 8	| 
-| 	Monday, March 13, 2023	| 	Being Case; Pipelines HBR	| 
-| 	Wednesday, March 15, 2023	| 	Quiz Ch. 9	| 
-| 	Monday, March 20, 2023	| 	Groups & Companies	| 
-| 	Wednesday, March 22, 2023	| 	Case 	| 
-| 	Monday, March 27, 2023	| **EXAM 2**	Exam Review; Project Rubric	
-| 	Wednesday, March 29, 2023	|  Project Work	| 
-| 	Monday, April 3, 2023	| 	Rough Draft Due 20%	| 
-| 	Wednesday, April 5, 2023	| 	GROUP MEETINGS	| 
-| 	Monday, April 10, 2023	| 	Easter Holliday	| 
-|	Wednesday, April 12, 2023	| 	Final Draft Due 80%	| 
-| 	Monday, April 17, 2023	| 	THANKSGIVING BREAK	| 
-|	Wednesday, April 19, 2023	| 	Leadership & Assign Presentation Times	**PRESENTATIONS** |
-|	Monday, April 24, 2023	| 	**PRESENTATIONS**	| 
-|	Wednesday, April 26, 2023	| 	Last Day of Class	| 
+## Spring 2023  {-}			
+
+Date | Topic | 
+|:-------|:------
+| 	Monday, January 9, 2023	| 	Fisker vs Tesla	| 		
+| 	Wednesday, January 11, 2023	| 	Robin Hood	| 		
+| 	Monday, January 16, 2023	| 	Martin Luther King, Jr. Holiday	| 		
+| 	Wednesday, January 18, 2023	| 	Quiz: Can you Say	| 		
+| 	Monday, January 23, 2023	| 	Quiz: CH 1 & 2	| 		
+| 	Wednesday, January 25, 2023	| 	Vance Speaker	| 		
+| 	Monday, January 30, 2023	| 	Quiz: CH 3	| 		
+| 	Wednesday, February 1, 2023	| 	Quiz: CH 4	| 		
+| 	Monday, February 6, 2023	| 	Case & review	| 		
+| 	Wednesday, February 8, 2023	|	**EXAM 1**	| 		
+| 	Monday, February 13, 2023	| 	 Poncho Case	| 		
+| 	Wednesday, February 15, 2023	| 	Quiz CH 5 & Case	| 		
+| 	Monday, February 20, 2023	| 	Ch 5 & 6 & Case	| 		
+| 	Wednesday, February 22, 2023	| 	Quiz CH 6	| 		
+| 	Monday, February 27, 2023	| 	FALL BREAK	| 		
+| 	Wednesday, March 1, 2023	| 	RyanAir; Groups & Companies	| 		
+| 	Monday, March 6, 2023	| 	Aldi & Walmart	| 		
+| 	Wednesday, March 8, 2023	| 	Quiz Ch. 8	| 		
+| 	Monday, March 13, 2023	| 	Being Case; Pipelines HBR	| 		
+| 	Wednesday, March 15, 2023	| 	Quiz Ch. 9	| 		
+| 	Monday, March 20, 2023	| 	Groups & Companies	| 		
+| 	Wednesday, March 22, 2023	| 	Case 	| 		
+| 	Monday, March 27, 2023	| **EXAM 2**		| 		
+| 	Wednesday, March 29, 2023	| 	Exam Review; Project Launch	| 		
+| 	Monday, April 3, 2023	| 	Project Work	| 		
+| 	Wednesday, April 5, 2023	| 	Rough Draft Due 20%	| 		
+| 	Monday, April 10, 2023	| 	GROUP MEETINGS	| 		
+|	Wednesday, April 12, 2023	| 	Easter Holiday	| 		
+| 	Monday, April 17, 2023	| 	Final Draft Due 80%	| 		
+|	Wednesday, April 19, 2023	| 	Leadership & Assign Presentation Times		| 
+|	Monday, April 24, 2023	| 	**PRESENTATIONS**		| 		
+|	Wednesday, April 26, 2023	| 	**PRESENTATIONS**	| 		
+
 
 				
 
